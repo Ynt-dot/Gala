@@ -1,4 +1,5 @@
 # Gala
+Graphics & Algorithms for Languages Assistance
 Иллюстрации к теории и решение задач для подготовки к экзамену по Языкам программирования
 
 Перед началом работы (терминал cmd, не powershell):
