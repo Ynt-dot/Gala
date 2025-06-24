@@ -1,0 +1,2 @@
+2025-06-25 00:00:17.906 | DEBUG    | __main__:run_client:46 - Attempt 1: Sent message to 127.0.0.1:5001
+2025-06-25 00:00:17.907 | INFO     | __main__:run_client:50 - Server response: ACK: Hello UDP Server!
