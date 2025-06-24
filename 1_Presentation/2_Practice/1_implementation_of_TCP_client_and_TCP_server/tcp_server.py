@@ -56,7 +56,7 @@ def start_server(host, port, log):
                         response = f"ECHO: {message}"
                         client_socket.sendall(response.encode('utf-8'))
                         log.debug(f"Sent response to {addr}")
-        except KeyboardInterrupt:
+        except KeyboardInterrupt:  # Не работает
             log.info("Server shutdown by administrator")
 
 
