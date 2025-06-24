@@ -1,0 +1,10 @@
+2025-06-24 23:14:07.395 | INFO     | __main__:start_server:36 - Server started on 127.0.0.1:5000. Waiting for connections...
+2025-06-24 23:33:19.159 | INFO     | __main__:start_server:36 - Server started on 127.0.0.1:5000. Waiting for connections...
+2025-06-24 23:33:54.793 | INFO     | __main__:start_server:42 - New connection from 127.0.0.1:59139
+2025-06-24 23:33:54.794 | INFO     | __main__:start_server:52 - Received from ('127.0.0.1', 59139):Hello server!
+2025-06-24 23:33:54.795 | DEBUG    | __main__:start_server:56 - Sent responce to ('127.0.0.1', 59139)
+2025-06-24 23:33:54.795 | DEBUG    | __main__:start_server:48 - Client ('127.0.0.1', 59139) disconnected
+2025-06-24 23:34:47.288 | INFO     | __main__:start_server:42 - New connection from 127.0.0.1:59146
+2025-06-24 23:34:47.304 | INFO     | __main__:start_server:52 - Received from ('127.0.0.1', 59146):Hello server!
+2025-06-24 23:34:47.304 | DEBUG    | __main__:start_server:56 - Sent responce to ('127.0.0.1', 59146)
+2025-06-24 23:34:47.305 | DEBUG    | __main__:start_server:48 - Client ('127.0.0.1', 59146) disconnected

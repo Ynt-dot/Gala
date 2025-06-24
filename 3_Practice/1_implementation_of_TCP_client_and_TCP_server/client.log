@@ -1,0 +1,6 @@
+2025-06-24 23:33:54.793 | INFO     | __main__:run_client:36 - Connected to server 127.0.0.1:5000
+2025-06-24 23:33:54.794 | DEBUG    | __main__:run_client:39 - Sent message Hello server!
+2025-06-24 23:33:54.795 | ERROR    | __main__:run_client:46 - Connection error: 'bytes' object has no attribute 'encode'
+2025-06-24 23:34:47.288 | INFO     | __main__:run_client:36 - Connected to server 127.0.0.1:5000
+2025-06-24 23:34:47.289 | DEBUG    | __main__:run_client:39 - Sent message Hello server!
+2025-06-24 23:34:47.305 | INFO     | __main__:run_client:42 - Server response: b'ECHO: Hello server!'
